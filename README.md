@@ -34,14 +34,12 @@ stitchMesh -overwrite outlet_inlet inlet_outlet
 ```
 ![image](https://user-images.githubusercontent.com/36812492/231797698-5f60fb70-eadd-47c1-9a56-e4490a4ca4d9.png)
 
-## 円筒内流れ（stitchMesh)
-- stitchMesh001_002_laminar
+## 円筒内流れ（stitchMesh) stitchMesh001_002_laminar
 
 [【OpenFOAM】異なるメッシュの境界を結合した後で円筒内の流れ](https://takun-physics.net/15957/)
 
 
-## 円筒内流れ(cyclicAMI)
-- mergeMesh001_002_cyclicAMI_laminar
+## 円筒内流れ(cyclicAMI) mergeMesh001_002_cyclicAMI_laminar
 
 [【OpenFOAM(cyclicAMI)】異なるメッシュの境界で円筒内の流れ](https://takun-physics.net/15942/)
 
