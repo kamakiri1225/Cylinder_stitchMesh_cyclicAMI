@@ -45,5 +45,5 @@ stitchMesh -overwrite outlet_inlet inlet_outlet
 
 [【OpenFOAM(cyclicAMI)】異なるメッシュの境界で円筒内の流れ](https://takun-physics.net/15942/)
 
-- 層流条件:$$\nu =5\times 10^{-3}$$
-- 乱流条件:$$\nu =5\times 10^{-6}$$
+- 層流条件: $\nu$ $= 5 \times 10^{-3}$
+- 乱流条件: $\nu$ $= 5 \times 10^{-6}$
