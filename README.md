@@ -39,10 +39,10 @@ stitchMesh -overwrite outlet_inlet inlet_outlet
 [【OpenFOAM】異なるメッシュの境界を結合した後で円筒内の流れ](https://takun-physics.net/15957/)
 
 
-##円筒内流れ(cyclicAMI)
+## 円筒内流れ(cyclicAMI)
 - mergeMesh001_002_cyclicAMI_laminar
 
 [【OpenFOAM(cyclicAMI)】異なるメッシュの境界で円筒内の流れ](https://takun-physics.net/15942/)
 
-- 層流条件:$\nu=5\times 10^{-3}$
-- 乱流条件:$\nu=5\times 10^{-6}$
+- 層流条件:$\nu =5\times 10^{-3}$
+- 乱流条件:$\nu =5\times 10^{-6}$
